@@ -1,0 +1,45 @@
+.search-results {
+  align-items: center;
+  background-color: var(--neutralwhite);
+  display: flex;
+  flex-direction: column;
+  min-height: 1049px;
+  position: relative;
+  width: 375px;
+}
+
+.all-results-1 {
+  align-self: flex-start;
+  height: 15px;
+  letter-spacing: 0.52px;
+  margin-left: 16px;
+  margin-top: 32px;
+}
+
+.flex-row-64 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 24px;
+  min-width: 343px;
+}
+
+.rectangle-2-7 {
+  height: 107px;
+  object-fit: cover;
+  width: 107px;
+}
+
+.rectangle-2-8 {
+  height: 107px;
+  margin-left: 11px;
+  object-fit: cover;
+  width: 107px;
+}
+
+.flex-row-63 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 11px;
+  min-width: 343px;
+}
+

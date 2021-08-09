@@ -1,0 +1,54 @@
+.text-38 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 111px;
+  width: 579px;
+}
+
+.text-39 {
+  color: var(--neutralwhite);
+  font-weight: 700;
+  line-height: 48px;
+  min-height: 103px;
+  width: 577px;
+}
+
+.text-38-1 {
+  letter-spacing: 0.16px;
+  line-height: 28px;
+  margin-top: 25px;
+  min-height: 90px;
+  width: 519px;
+}
+
+.button-31 {
+  align-items: center;
+  background-color: var(--color--accent);
+  border-radius: 32px;
+  display: flex;
+  height: 40px;
+  margin-top: 34px;
+  overflow: hidden;
+  padding: 0 44.1px;
+  width: 190px;
+}
+
+.start-trade-3 {
+  color: var(--neutralwhite);
+  font-weight: 500;
+  line-height: 27px;
+  margin-left: 2px;
+  min-height: 27px;
+  min-width: 100px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.text-38.text-47 .button-31 {
+  align-items: flex-start;
+  padding: 6.6px 44.1px;
+}
+

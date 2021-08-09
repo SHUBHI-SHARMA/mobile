@@ -1,0 +1,43 @@
+.text-103 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 337px;
+  position: absolute;
+  top: 336px;
+  width: 583px;
+}
+
+.text-106 {
+  color: var(--neutralwhite);
+  font-weight: 700;
+  min-height: 145px;
+  width: 581px;
+}
+
+.text-105 {
+  align-self: center;
+  letter-spacing: 0.64px;
+  line-height: 24px;
+  margin-right: 4.0px;
+  margin-top: 37px;
+  min-height: 78px;
+  width: 511px;
+}
+
+.text-103.text-104 {
+  left: 339px;
+}
+
+.text-103.text-108 {
+  left: 339px;
+}
+
+.text-103.text-110 {
+  left: 339px;
+}
+
+.text-103.text-111 {
+  left: 325px;
+}
+

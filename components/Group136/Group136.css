@@ -1,0 +1,48 @@
+.group-136-1 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 17.52px;
+  margin-left: 7px;
+  min-width: 7px;
+}
+
+.overlap-group11-5 {
+  height: 121px;
+  margin-top: 0;
+  position: relative;
+  width: 7px;
+}
+
+.rectangle-78-63 {
+  background-color: var(--downy);
+  border-radius: 4px;
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 7px;
+}
+
+.rectangle-79-66 {
+  background-color: var(--downy);
+  border-radius: 1px;
+  height: 121px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.group-136-1.group-141-7 {
+  margin-bottom: 42.83px;
+}
+
+.group-136-1.group-141-7 .overlap-group11-5 {
+  height: 78px;
+}
+
+.group-136-1.group-141-7 .rectangle-79-66 {
+  height: 78px;
+}
+

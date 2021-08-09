@@ -1,0 +1,176 @@
+.mobile-1 {
+  background-color: var(--neutralwhite);
+  height: 6061px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 1581px;
+  opacity: 0;
+}
+
+.mobile-1.animate-enter3 {
+  animation: animate-enter3-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+.overlap-group-39 {
+  height: 4656px;
+  left: 27px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.why-crappo-5 {
+  background-color: var(--color--primary);
+  height: 887px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 850px;
+  width: 1440px;
+}
+
+.overlap-group1-23 {
+  height: 954px;
+  left: -202px;
+  position: absolute;
+  top: 0;
+  width: 1723px;
+}
+
+.x-46 {
+  height: 470px;
+  left: 0;
+  position: absolute;
+  top: 484px;
+  width: 522px;
+}
+
+.d-5 {
+  height: 196px;
+  left: 1486px;
+  position: absolute;
+  top: 165px;
+  width: 185px;
+}
+
+.u-6 {
+  height: 120px;
+  left: 1531px;
+  position: absolute;
+  top: 678px;
+  width: 154px;
+}
+
+.frame-2-5 {
+  height: 664px;
+  left: 868px;
+  position: absolute;
+  top: 239px;
+  width: 855px;
+}
+
+.x-47 {
+  height: 603px;
+  left: 131px;
+  position: absolute;
+  top: 435px;
+  width: 925px;
+}
+
+.mobile2 {
+  background-color: var(--neutralwhite);
+  height: 6061px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 1581px;
+  opacity: 0;
+}
+
+.mobile2.animate-enter5 {
+  animation: animate-enter5-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+.overlap-group-40 {
+  height: 4656px;
+  left: 27px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.why-crappo-6 {
+  background-color: var(--color--primary);
+  height: 887px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 850px;
+  width: 1440px;
+}
+
+.overlap-group1-24 {
+  height: 954px;
+  left: -202px;
+  position: absolute;
+  top: 0;
+  width: 1723px;
+}
+
+.x-48 {
+  height: 470px;
+  left: 0;
+  position: absolute;
+  top: 484px;
+  width: 522px;
+}
+
+.d-6 {
+  height: 196px;
+  left: 1486px;
+  position: absolute;
+  top: 165px;
+  width: 185px;
+}
+
+.u-7 {
+  height: 120px;
+  left: 1531px;
+  position: absolute;
+  top: 678px;
+  width: 154px;
+}
+
+.frame-2-6 {
+  height: 664px;
+  left: 868px;
+  position: absolute;
+  top: 239px;
+  width: 855px;
+}
+
+.x-49 {
+  height: 603px;
+  left: 131px;
+  position: absolute;
+  top: 435px;
+  width: 925px;
+}
+
+@keyframes animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+@keyframes animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+

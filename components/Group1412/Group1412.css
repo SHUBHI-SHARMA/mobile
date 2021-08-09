@@ -1,0 +1,55 @@
+.group-141-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 45px;
+  left: 130px;
+  position: absolute;
+  top: 14px;
+}
+
+.overlap-group12-3 {
+  height: 45px;
+  margin-top: 0;
+  position: relative;
+  width: 16px;
+}
+
+.rectangle-78-41 {
+  background-color: var(--downy);
+  border-radius: 4px;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 16px;
+}
+
+.rectangle-79-47 {
+  background-color: var(--downy);
+  border-radius: 1px;
+  height: 45px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.group-141-5.group-149-2 {
+  height: 57px;
+  left: 1px;
+  top: 30px;
+}
+
+.group-141-5.group-149-2 .overlap-group12-3 {
+  height: 57px;
+}
+
+.group-141-5.group-149-2 .rectangle-78-41 {
+  background-color: var(--radical-red);
+}
+
+.group-141-5.group-149-2 .rectangle-79-47 {
+  background-color: var(--radical-red);
+  height: 57px;
+}
+

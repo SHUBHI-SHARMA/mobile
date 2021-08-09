@@ -1,0 +1,26 @@
+.button-register-3 {
+  align-items: center;
+  background-color: var(--radical-red);
+  border-radius: 32px;
+  display: flex;
+  height: 34px;
+  margin-left: 6px;
+  overflow: hidden;
+  padding: 0 22px;
+  width: 70px;
+}
+
+.sell {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 2px;
+  min-height: 18px;
+  min-width: 24px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.button-register-3.button-register-5 {
+  margin-left: 63px;
+}
+

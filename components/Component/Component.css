@@ -1,0 +1,35 @@
+.component {
+  align-items: flex-start;
+  display: flex;
+  min-width: 139px;
+}
+
+.ellipse-1 {
+  height: 28px;
+  object-fit: cover;
+  width: 28px;
+}
+
+.flex-col-87 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 8px;
+  min-height: 28px;
+  width: 95px;
+}
+
+.text-302 {
+  height: 15px;
+  letter-spacing: 0;
+}
+
+.text-303 {
+  height: 13px;
+  letter-spacing: 0;
+}
+
+.component.component-1 .flex-col-87 {
+  width: 97px;
+}
+

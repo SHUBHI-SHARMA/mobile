@@ -1,0 +1,39 @@
+.group-126 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  margin-left: 7px;
+  margin-top: 0;
+  min-width: 8px;
+}
+
+.overlap-group18 {
+  height: 134px;
+  position: relative;
+  width: 8px;
+}
+
+.rectangle-78-20 {
+  background-color: var(--downy);
+  border-radius: 4px;
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 67px;
+  width: 8px;
+}
+
+.rectangle-79-24 {
+  background-color: var(--downy);
+  border-radius: 1px;
+  height: 134px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.group-126.group-126-1 {
+  margin-top: unset;
+}
+

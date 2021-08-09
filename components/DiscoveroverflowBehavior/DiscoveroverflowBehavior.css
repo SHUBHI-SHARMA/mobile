@@ -1,0 +1,139 @@
+.discover-overflow-behavior {
+  align-items: center;
+  background-color: var(--neutralwhite);
+  display: flex;
+  flex-direction: column;
+  min-height: 2267px;
+  position: relative;
+  width: 375px;
+}
+
+.flex-col-89 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 574px;
+  position: relative;
+  width: 375px;
+}
+
+.whats-new-today {
+  height: 15px;
+  letter-spacing: 0.52px;
+  margin-left: 16px;
+  margin-top: 32px;
+}
+
+.frame::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.frame {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  height: 387px;
+  margin-top: 24px;
+  min-width: 343px;
+  overflow-x: scroll;
+}
+
+.flex-col-90 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 387px;
+  position: relative;
+  width: 343px;
+}
+
+.rectangle-2 {
+  height: 343px;
+  object-fit: cover;
+  width: 343px;
+}
+
+.flex-col-88 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+  min-height: 387px;
+  position: relative;
+  width: 343px;
+}
+
+.flex-row-60 {
+  align-items: flex-end;
+  display: flex;
+  height: 1446px;
+  margin-top: 48px;
+  min-width: 343px;
+}
+
+.flex-col-91 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 1446px;
+  width: 167px;
+}
+
+.browse-all {
+  height: 15px;
+  letter-spacing: 0.52px;
+}
+
+.rectangle-2-3 {
+  height: 220px;
+  margin-top: 24px;
+  object-fit: cover;
+  width: 167px;
+}
+
+.rectangle-22 {
+  height: 310px;
+  margin-top: 10px;
+  object-fit: cover;
+  width: 167px;
+}
+
+.rectangle-2-1 {
+  height: 220px;
+  margin-top: 9px;
+  object-fit: cover;
+  width: 167px;
+}
+
+.rectangle-2-2 {
+  height: 310px;
+  margin-top: 9px;
+  object-fit: cover;
+  width: 167px;
+}
+
+.flex-col-92 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 9px;
+  min-height: 1407px;
+  width: 167px;
+}
+
+.rectangle-21 {
+  height: 310px;
+  object-fit: cover;
+  width: 167px;
+}
+
+.rectangle-23 {
+  cursor: pointer;
+  height: 310px;
+  margin-top: 10px;
+  object-fit: cover;
+  width: 167px;
+}
+

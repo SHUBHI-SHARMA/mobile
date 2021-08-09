@@ -1,0 +1,67 @@
+.group-149-3 {
+  align-items: flex-end;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 7px;
+  margin-top: 32.13px;
+  min-width: 7px;
+}
+
+.overlap-group12-4 {
+  height: 100px;
+  margin-bottom: 0;
+  position: relative;
+  width: 7px;
+}
+
+.rectangle-78-59 {
+  background-color: var(--radical-red);
+  border-radius: 4px;
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 7px;
+}
+
+.rectangle-79-63 {
+  background-color: var(--radical-red);
+  border-radius: 1px;
+  height: 100px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.group-149-3.group-145-3 {
+  align-self: flex-end;
+  margin-bottom: 20.44px;
+  margin-top: unset;
+}
+
+.group-149-3.group-145-3 .overlap-group-32,
+.group-149-3.group-145-3 .overlap-group12-4 {
+  height: 78px;
+}
+
+.group-149-3.group-145-3 .rectangle-78-59 {
+  background-color: var(--downy);
+}
+
+.group-149-3.group-145-3 .rectangle-79-63 {
+  background-color: var(--downy);
+  height: 78px;
+}
+
+.group-149-3.group-144-3 {
+  align-self: flex-end;
+  margin-bottom: 7.79px;
+  margin-left: 20px;
+  margin-top: unset;
+}
+
+.group-149-3.group-144-3 .rectangle-79-63 {
+  height: 78px;
+}
+

@@ -1,0 +1,80 @@
+.button-13 {
+  align-items: center;
+  background-color: var(--color--accent);
+  border-radius: 32px;
+  display: flex;
+  height: 59px;
+  left: 459px;
+  overflow: hidden;
+  padding: 0 30px;
+  position: absolute;
+  top: 484px;
+  width: 159px;
+}
+
+.know-more {
+  color: var(--neutralwhite);
+  font-weight: 500;
+  line-height: 27px;
+  margin-left: 2px;
+  min-height: 27px;
+  min-width: 97px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.button-13.button-14 {
+  left: 458px;
+  top: 430px;
+}
+
+.button-13.button-15 {
+  left: 458px;
+  top: 456px;
+}
+
+.button-13.button-16 {
+  left: 463px;
+  top: 444px;
+}
+
+.button-13.button-17 {
+  left: 548px;
+  top: 443px;
+}
+
+.button-13.button-18 {
+  left: 539px;
+  top: 406px;
+}
+
+.button-13.button-19 {
+  left: 593px;
+  top: 401px;
+}
+
+.button-13.button-20 {
+  left: 557px;
+  top: 403px;
+}
+
+.button-13.button-21 {
+  left: 786px;
+  top: 509px;
+}
+
+.button-13.button-22 {
+  left: 785px;
+  top: 482px;
+}
+
+.button-13.button-23 {
+  left: 785px;
+  top: 519px;
+}
+
+.button-13.button-24 {
+  left: 785px;
+  top: 505px;
+}
+

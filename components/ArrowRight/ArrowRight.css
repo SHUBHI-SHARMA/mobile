@@ -1,0 +1,33 @@
+.arrow-right {
+  align-items: center;
+  background-color: var(--neutralwhite);
+  border-radius: 16px;
+  display: flex;
+  height: 32px;
+  margin-left: 25px;
+  min-width: 32px;
+  padding: 0 4px;
+}
+
+.evachevron-right-outline {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  padding: 6.7px 8.3px;
+  width: 24px;
+}
+
+.vector-171 {
+  height: 10px;
+  margin-left: 1px;
+  width: 6px;
+}
+
+.arrow-right.arrow-right-1 {
+  margin-left: 40px;
+}
+
+.arrow-right.arrow-right-2 {
+  margin-left: 40px;
+}
+

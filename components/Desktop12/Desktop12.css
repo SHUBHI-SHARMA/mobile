@@ -1,0 +1,158 @@
+.desktop-1-1 {
+  background-color: var(--neutralwhite);
+  height: 6061px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+  opacity: 0;
+}
+
+.desktop-1-1.animate-enter2 {
+  animation: animate-enter2-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+.overlap-group-37 {
+  height: 3806px;
+  left: -3px;
+  position: absolute;
+  top: 850px;
+  width: 1442px;
+}
+
+.why-crappo-3 {
+  background-color: var(--color--primary);
+  height: 887px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.overlap-group1-19 {
+  height: 954px;
+  left: -200px;
+  position: absolute;
+  top: 0;
+  width: 1721px;
+}
+
+.x-28 {
+  height: 470px;
+  left: 0;
+  position: absolute;
+  top: 484px;
+  width: 519px;
+}
+
+.d-3 {
+  height: 196px;
+  left: 1484px;
+  position: absolute;
+  top: 165px;
+  width: 185px;
+}
+
+.u-4 {
+  height: 120px;
+  left: 1529px;
+  position: absolute;
+  top: 678px;
+  width: 154px;
+}
+
+.frame-2-3 {
+  height: 664px;
+  left: 866px;
+  position: absolute;
+  top: 239px;
+  width: 855px;
+}
+
+.desktop-12 {
+  background-color: var(--neutralwhite);
+  height: 6061px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+  opacity: 0;
+}
+
+.desktop-12.animate-enter4 {
+  animation: animate-enter4-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+.overlap-group-38 {
+  height: 3806px;
+  left: -3px;
+  position: absolute;
+  top: 850px;
+  width: 1442px;
+}
+
+.why-crappo-4 {
+  background-color: var(--color--primary);
+  height: 887px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.overlap-group1-20 {
+  height: 954px;
+  left: -200px;
+  position: absolute;
+  top: 0;
+  width: 1721px;
+}
+
+.x-29 {
+  height: 470px;
+  left: 0;
+  position: absolute;
+  top: 484px;
+  width: 519px;
+}
+
+.d-4 {
+  height: 196px;
+  left: 1484px;
+  position: absolute;
+  top: 165px;
+  width: 185px;
+}
+
+.u-5 {
+  height: 120px;
+  left: 1529px;
+  position: absolute;
+  top: 678px;
+  width: 154px;
+}
+
+.frame-2-4 {
+  height: 664px;
+  left: 866px;
+  position: absolute;
+  top: 239px;
+  width: 855px;
+}
+
+@keyframes animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+@keyframes animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+

@@ -1,0 +1,29 @@
+.group-116 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 325px;
+  position: absolute;
+  top: 20px;
+  width: 64px;
+}
+
+.price-15 {
+  height: 23px;
+  letter-spacing: 0.14px;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.low {
+  height: 17px;
+  letter-spacing: 0.10px;
+  line-height: 15px;
+  margin-top: 2px;
+  white-space: nowrap;
+}
+
+.group-116.group-116-1 {
+  left: 322px;
+}
+

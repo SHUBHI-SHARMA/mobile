@@ -1,0 +1,21 @@
+.register {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 16px;
+  margin-top: 32px;
+  min-width: 148px;
+}
+
+.search-i0679070 {
+  height: 40px;
+  letter-spacing: -0.54px;
+}
+
+.register.register-2 {
+  align-self: flex-start;
+}
+
+.register.register-3 {
+  align-self: flex-start;
+}
+

@@ -1,0 +1,55 @@
+.dott-10-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 93px;
+  left: 150px;
+  overflow: hidden;
+  position: absolute;
+  top: 4439px;
+  transform: rotate(-90deg);
+  width: 151px;
+}
+
+.overlap-group-20 {
+  height: 93px;
+  margin-top: -0.12px;
+  position: relative;
+  width: 151px;
+}
+
+.vector-182 {
+  height: 4px;
+  left: 8px;
+  position: absolute;
+  top: 53px;
+  transform: rotate(90deg);
+  width: 76px;
+}
+
+.vector-183 {
+  height: 20px;
+  left: 37px;
+  position: absolute;
+  top: -1px;
+  transform: rotate(90deg);
+  width: 17px;
+}
+
+.dott-10-1.dott-10,
+.dott-10-1.dott-10-2,
+.dott-10-1.dott-10-3 {
+  left: 0;
+  top: 0;
+  transform: unset;
+}
+
+.dott-10-1.dott-10 .vector-182,
+.dott-10-1.dott-10 .vector-184 {
+  transform: rotate(-90.00deg);
+}
+
+.dott-10-1.dott-10 .vector-183,
+.dott-10-1.dott-10 .vector-185 {
+  transform: rotate(-90.00deg);
+}
+

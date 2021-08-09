@@ -1,0 +1,72 @@
+.header {
+  align-items: flex-end;
+  background-color: var(--color--primary);
+  display: flex;
+  flex-direction: column;
+  height: 850px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.top {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 32px;
+  margin-right: 213.0px;
+  margin-top: 68px;
+  min-width: 863px;
+  position: relative;
+}
+
+.text-53 {
+  letter-spacing: 1.12px;
+  min-height: 31px;
+  width: 144px;
+}
+
+.overlap-group5-2 {
+  height: 798px;
+  margin-right: -42.1px;
+  margin-top: 63px;
+  position: relative;
+  width: 887px;
+}
+
+.x-1 {
+  height: 380px;
+  left: 47px;
+  position: absolute;
+  top: 418px;
+  width: 840px;
+}
+
+.x-2 {
+  height: 1px;
+  left: 94px;
+  position: absolute;
+  top: 522px;
+  width: 1px;
+}
+
+.componentlottie-20p9ce3saqjson {
+  height: 546px;
+  left: 0;
+  position: absolute;
+  top: 56px;
+  width: 778px;
+}
+
+.componentlottie-20p9ce3saqjson video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.componentlottie-20p9ce3saqjson img {
+  object-fit: cover;
+}
+

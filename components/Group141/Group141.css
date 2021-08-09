@@ -1,0 +1,31 @@
+.group-141 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 558px;
+  position: absolute;
+  top: 224px;
+  width: 37px;
+}
+
+.price-9 {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.4;
+  white-space: nowrap;
+}
+
+.price-7 {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 35px;
+  opacity: 0.4;
+  white-space: nowrap;
+}
+
+.group-141.group-141-1 {
+  left: 553px;
+}
+

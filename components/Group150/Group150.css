@@ -1,0 +1,68 @@
+.group-150 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  margin-bottom: 0;
+  min-width: 8px;
+}
+
+.overlap-group35 {
+  height: 109px;
+  position: relative;
+  width: 8px;
+}
+
+.rectangle-78-2 {
+  background-color: var(--downy);
+  border-radius: 4px;
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 8px;
+}
+
+.rectangle-79-2 {
+  background-color: var(--downy);
+  border-radius: 1px;
+  height: 109px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.group-150-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  margin-bottom: 0;
+  min-width: 8px;
+}
+
+.overlap-group34 {
+  height: 109px;
+  position: relative;
+  width: 8px;
+}
+
+.rectangle-78-3 {
+  background-color: var(--downy);
+  border-radius: 4px;
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 8px;
+}
+
+.rectangle-79-3 {
+  background-color: var(--downy);
+  border-radius: 1px;
+  height: 109px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+

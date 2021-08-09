@@ -1,0 +1,95 @@
+.dott-9-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 93px;
+  left: 147px;
+  overflow: hidden;
+  position: absolute;
+  top: 4264px;
+  transform: rotate(-90deg);
+  width: 151px;
+}
+
+.overlap-group-19 {
+  height: 113px;
+  margin-left: -90px;
+  margin-top: -19.93px;
+  position: relative;
+  width: 151px;
+}
+
+.vector-174 {
+  height: 4px;
+  left: 98px;
+  position: absolute;
+  top: 73px;
+  transform: rotate(90deg);
+  width: 76px;
+}
+
+.vector-175 {
+  height: 20px;
+  left: 128px;
+  position: absolute;
+  top: 18px;
+  transform: rotate(90deg);
+  width: 17px;
+}
+
+.dott-2-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 93px;
+  left: 0;
+  padding: 8.1px 45.7px;
+  position: absolute;
+  top: 0;
+  width: 151px;
+}
+
+.vector-176 {
+  height: 1px;
+  transform: rotate(90deg);
+  width: 1px;
+}
+
+.vector-177 {
+  height: 1px;
+  margin-left: 0;
+  margin-top: 46px;
+  transform: rotate(90deg);
+  width: 1px;
+}
+
+.dott-9-1.dott-9,
+.dott-9-1.dott-9-2,
+.dott-9-1.dott-9-3,
+.dott-9-1.dott-9-4,
+.dott-9-1.dott-9-5,
+.dott-9-1.dott-9-6 {
+  left: 0;
+  top: 0;
+  transform: unset;
+}
+
+.dott-9-1.dott-9 .vector-174,
+.dott-9-1.dott-9 .vector-178 {
+  transform: rotate(-90.00deg);
+}
+
+.dott-9-1.dott-9 .vector-175,
+.dott-9-1.dott-9 .vector-179 {
+  transform: rotate(-90.00deg);
+}
+
+.dott-9-1.dott-9 .vector-176,
+.dott-9-1.dott-9 .vector-180 {
+  transform: rotate(-90.00deg);
+}
+
+.dott-9-1.dott-9 .vector-177,
+.dott-9-1.dott-9 .vector-181 {
+  transform: rotate(-90.00deg);
+}
+

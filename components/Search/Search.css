@@ -1,0 +1,10 @@
+.search {
+  align-items: flex-start;
+  background-color: var(--neutralwhite);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+

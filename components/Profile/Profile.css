@@ -1,0 +1,114 @@
+.profile {
+  align-items: center;
+  background-color: var(--neutralwhite);
+  display: flex;
+  flex-direction: column;
+  height: 1549px;
+  position: relative;
+  width: 375px;
+}
+
+.overlap-group2-37 {
+  height: 1350px;
+  position: relative;
+  width: 375px;
+}
+
+.overlap-group-48 {
+  height: 1121px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.rectangle {
+  background-color: var(--neutralwhite);
+  height: 812px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.ellipse-6 {
+  height: 128px;
+  left: 124px;
+  object-fit: cover;
+  position: absolute;
+  top: 76px;
+  width: 128px;
+}
+
+.name-10 {
+  height: 40px;
+  left: 142px;
+  letter-spacing: -0.54px;
+  position: absolute;
+  text-align: center;
+  top: 236px;
+}
+
+.san-francisco-ca {
+  height: 15px;
+  left: 121px;
+  letter-spacing: 0.52px;
+  position: absolute;
+  text-align: center;
+  top: 292px;
+}
+
+.rectangle-2-4 {
+  height: 220px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 491px;
+  width: 167px;
+}
+
+.rectangle-21-1 {
+  height: 310px;
+  left: 192px;
+  object-fit: cover;
+  position: absolute;
+  top: 491px;
+  width: 167px;
+}
+
+.rectangle-23-1 {
+  height: 310px;
+  left: 192px;
+  object-fit: cover;
+  position: absolute;
+  top: 811px;
+  width: 167px;
+}
+
+.rectangle-22-1 {
+  height: 310px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 721px;
+  width: 167px;
+}
+
+.rectangle-25 {
+  height: 220px;
+  left: 192px;
+  object-fit: cover;
+  position: absolute;
+  top: 1130px;
+  width: 167px;
+}
+
+.rectangle-24 {
+  height: 310px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 1040px;
+  width: 167px;
+}
+

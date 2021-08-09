@@ -1,0 +1,37 @@
+.frame-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 696px;
+  left: 787px;
+  padding: 12.2px 63.3px;
+  position: absolute;
+  top: 223px;
+  width: 1017px;
+}
+
+.run-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 649px;
+  padding: 9.6px 0.6px;
+  width: 794px;
+}
+
+.overlap-group4-4 {
+  height: 630px;
+  position: relative;
+  width: 792px;
+}
+
+.group {
+  height: 630px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 792px;
+}
+
+.frame-2.frame-2-1 {
+  left: 785px;
+}
+

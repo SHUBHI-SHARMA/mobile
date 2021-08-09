@@ -1,0 +1,33 @@
+.text-36 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2.19px;
+  margin-left: 29px;
+  min-height: 268px;
+  position: relative;
+  width: 435px;
+}
+
+.detailed-statistics-1 {
+  color: var(--neutralwhite);
+  font-weight: 700;
+  line-height: 48px;
+  margin-left: 1.89px;
+  min-height: 53px;
+  white-space: nowrap;
+}
+
+.text-42 {
+  letter-spacing: 0.16px;
+  line-height: 28px;
+  margin-left: 1.89px;
+  margin-top: 26px;
+  min-height: 93px;
+  width: 388px;
+}
+
+.text-36.text-37 {
+  margin-left: 24px;
+}
+

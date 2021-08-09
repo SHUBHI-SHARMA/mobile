@@ -1,0 +1,63 @@
+.button-register {
+  align-items: center;
+  background-color: var(--downy);
+  border-radius: 32px;
+  display: flex;
+  height: 34px;
+  overflow: hidden;
+  padding: 0 22px;
+  width: 71px;
+}
+
+.buy {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 2px;
+  min-height: 18px;
+  min-width: 25px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.button-register-1 {
+  align-items: center;
+  background-color: var(--downy);
+  border-radius: 32px;
+  display: flex;
+  height: 34px;
+  overflow: hidden;
+  padding: 0 22px;
+  width: 71px;
+}
+
+.buy-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 2px;
+  min-height: 18px;
+  min-width: 25px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.button-register-2 {
+  align-items: center;
+  background-color: var(--downy);
+  border-radius: 32px;
+  display: flex;
+  height: 34px;
+  overflow: hidden;
+  padding: 0 22px;
+  width: 71px;
+}
+
+.buy-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 2px;
+  min-height: 18px;
+  min-width: 25px;
+  text-align: center;
+  white-space: nowrap;
+}
+

@@ -1,0 +1,33 @@
+.button-33 {
+  align-items: center;
+  background-color: var(--neutralwhite);
+  border-radius: 32px;
+  display: flex;
+  height: 55px;
+  left: 317px;
+  overflow: hidden;
+  padding: 0 30px;
+  position: absolute;
+  top: 115px;
+  width: 171px;
+}
+
+.click-to-join {
+  color: var(--color--primary);
+  font-weight: 500;
+  line-height: 27px;
+  margin-left: 2px;
+  min-height: 27px;
+  min-width: 109px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.button-33.button-35 {
+  left: 315px;
+}
+
+.button-33.button-36 {
+  left: 375px;
+}
+

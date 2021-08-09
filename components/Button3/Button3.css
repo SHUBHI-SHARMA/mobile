@@ -1,0 +1,44 @@
+.button-26 {
+  align-items: center;
+  background-color: var(--color--accent);
+  border-radius: 32px;
+  display: flex;
+  height: 59px;
+  margin-left: 0;
+  margin-top: 34px;
+  overflow: hidden;
+  padding: 0 30px;
+  width: 162px;
+}
+
+.start-trade {
+  color: var(--neutralwhite);
+  font-weight: 500;
+  line-height: 27px;
+  margin-left: 2px;
+  min-height: 27px;
+  min-width: 100px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.button-26.button-27 {
+  margin-left: unset;
+  margin-top: 35px;
+}
+
+.button-26.button-29 {
+  margin-left: unset;
+  margin-top: 35px;
+}
+
+.button-26.button-25 {
+  margin-left: unset;
+  margin-top: 32px;
+}
+
+.button-26.button-30 {
+  margin-left: unset;
+  margin-top: 31px;
+}
+

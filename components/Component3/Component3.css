@@ -1,0 +1,44 @@
+.component-3-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 16px;
+  min-width: 139px;
+}
+
+.ellipse-5 {
+  height: 28px;
+  object-fit: cover;
+  width: 28px;
+}
+
+.flex-col-93 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 8px;
+  min-height: 28px;
+  width: 95px;
+}
+
+.text-309 {
+  height: 15px;
+  letter-spacing: 0;
+}
+
+.text-31-1 {
+  height: 13px;
+  letter-spacing: 0;
+}
+
+.component-3-1.component-3-2 .flex-col-93 {
+  width: 99px;
+}
+
+.component-3-1.component-3-3 .flex-col-93 {
+  width: 63px;
+}
+
+.component-3-1.component-3 .flex-col-93 {
+  width: 66px;
+}
+

@@ -1,0 +1,75 @@
+.status-bar {
+  align-items: flex-end;
+  display: flex;
+  height: 44px;
+  justify-content: flex-end;
+  left: 0;
+  padding: 12px 14px;
+  position: absolute;
+  top: 0;
+}
+
+.time-i0783067 {
+  letter-spacing: -0.33px;
+  min-height: 18px;
+  text-align: center;
+  width: 56px;
+}
+
+.connections {
+  align-items: center;
+  display: flex;
+  height: 16px;
+  margin-bottom: 1px;
+  margin-left: 215px;
+  min-width: 68px;
+  padding: 1.8px 0;
+}
+
+.cellular-connection {
+  background-size: 100% 100%;
+  height: 12px;
+  width: 18px;
+}
+
+.wifi {
+  align-self: flex-start;
+  height: 12px;
+  margin-left: 4px;
+  width: 16px;
+}
+
+.battery {
+  height: 12px;
+  margin-left: 4px;
+  width: 25px;
+}
+
+.status-bar.status-bar-2 {
+  left: unset;
+  min-width: 375px;
+  position: unset;
+  top: unset;
+}
+
+.status-bar.status-bar-3 {
+  left: unset;
+  min-width: 375px;
+  position: unset;
+  top: unset;
+}
+
+.status-bar.status-bar-5 {
+  left: unset;
+  min-width: 375px;
+  position: unset;
+  top: unset;
+}
+
+.status-bar.status-bar-6 {
+  left: unset;
+  min-width: 375px;
+  position: unset;
+  top: unset;
+}
+

@@ -1,0 +1,29 @@
+.group-115 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 251px;
+  position: absolute;
+  top: 20px;
+  width: 71px;
+}
+
+.price-13 {
+  height: 23px;
+  letter-spacing: 0.14px;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.high {
+  height: 17px;
+  letter-spacing: 0.10px;
+  line-height: 15px;
+  margin-top: 2px;
+  white-space: nowrap;
+}
+
+.group-115.group-115-1 {
+  left: 249px;
+}
+

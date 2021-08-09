@@ -1,0 +1,86 @@
+.group-135-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group-21 {
+  height: 45px;
+  margin-top: 0;
+  position: relative;
+  width: 16px;
+}
+
+.rectangle-78-39 {
+  background-color: var(--radical-red);
+  border-radius: 4px;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 16px;
+}
+
+.rectangle-79-45 {
+  background-color: var(--radical-red);
+  border-radius: 1px;
+  height: 45px;
+  left: 6px;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.group-135-2.group-140-2 {
+  left: 153px;
+  top: 22px;
+}
+
+.group-135-2.group-140-2 .rectangle-78-39,
+.group-135-2.group-140-2 .rectangle-78-40 {
+  background-color: var(--downy);
+}
+
+.group-135-2.group-140-2 .rectangle-79-45,
+.group-135-2.group-140-2 .rectangle-79-46 {
+  background-color: var(--downy);
+}
+
+.group-135-2.group-144-2 {
+  left: 124px;
+  top: 49px;
+}
+
+.group-135-2.group-145-2 {
+  left: 135px;
+  top: 42px;
+}
+
+.group-135-2.group-137-2 {
+  left: 19px;
+  top: 18px;
+}
+
+.group-135-2.group-136 {
+  height: 69px;
+  left: 38px;
+  top: 9px;
+}
+
+.group-135-2.group-136 .overlap-group-21 {
+  height: 69px;
+}
+
+.group-135-2.group-136 .rectangle-79-45 {
+  background-color: var(--downy);
+  height: 69px;
+}
+
+.group-135-2.group-129-2 {
+  left: 38px;
+  top: 40px;
+}
+

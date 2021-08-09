@@ -1,0 +1,48 @@
+.group-135-3 {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 7px;
+  margin-top: 5.84px;
+  min-width: 7px;
+}
+
+.overlap-group-34 {
+  height: 78px;
+  margin-bottom: 0;
+  position: relative;
+  width: 7px;
+}
+
+.rectangle-78-64 {
+  background-color: var(--radical-red);
+  border-radius: 4px;
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 7px;
+}
+
+.rectangle-79-67 {
+  background-color: var(--radical-red);
+  border-radius: 1px;
+  height: 78px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.group-135-3.group-129-3 {
+  margin-left: 9px;
+  margin-top: 46.73px;
+}
+
+.group-135-3.group-129-3 .rectangle-78-64 {
+  background-color: var(--downy);
+}
+
+.group-135-3.group-129-3 .rectangle-79-67 {
+  background-color: var(--downy);
+}
+

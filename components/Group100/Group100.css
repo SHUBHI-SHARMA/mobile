@@ -1,0 +1,22 @@
+.group-100 {
+  align-items: center;
+  display: flex;
+  height: 30px;
+  justify-content: flex-end;
+  margin-left: 72px;
+  margin-top: 0;
+  min-width: 76px;
+  position: relative;
+}
+
+.text-36-1 {
+  letter-spacing: 0;
+  margin-left: 8px;
+  min-height: 30px;
+  width: 51px;
+}
+
+.group-100.group-100-1 {
+  margin-left: 71px;
+}
+

@@ -1,0 +1,27 @@
+.button-32 {
+  align-items: center;
+  background-color: var(--neutralwhite);
+  border-radius: 32px;
+  display: flex;
+  height: 55px;
+  margin-left: 18px;
+  overflow: hidden;
+  padding: 0 30px;
+  width: 152px;
+}
+
+.subscribe {
+  color: var(--color--primary);
+  font-weight: 500;
+  line-height: 27px;
+  margin-left: 2px;
+  min-height: 27px;
+  min-width: 90px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.button-32.button-34 {
+  margin-left: 38px;
+}
+

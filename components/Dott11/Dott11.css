@@ -1,0 +1,75 @@
+.dott-11 {
+  align-items: flex-start;
+  display: flex;
+  height: 93px;
+  left: 150px;
+  overflow: hidden;
+  position: absolute;
+  top: 4590px;
+  transform: rotate(-90deg);
+  width: 151px;
+}
+
+.overlap-group1-7 {
+  height: 93px;
+  margin-top: -0.12px;
+  position: relative;
+  width: 151px;
+}
+
+.vector-186 {
+  height: 4px;
+  left: 8px;
+  position: absolute;
+  top: 53px;
+  transform: rotate(90deg);
+  width: 76px;
+}
+
+.vector-187 {
+  height: 20px;
+  left: 37px;
+  position: absolute;
+  top: -1px;
+  transform: rotate(90deg);
+  width: 17px;
+}
+
+.dott-11.dott-12 {
+  top: 4786px;
+}
+
+.dott-11.dott-14 {
+  left: 65px;
+  top: 5036px;
+  transform: rotate(90.00deg);
+}
+
+.dott-11.dott-14 .vector-186,
+.dott-11.dott-14 .vector-188 {
+  transform: rotate(-90.00deg);
+}
+
+.dott-11.dott-14 .vector-187,
+.dott-11.dott-14 .vector-189 {
+  transform: rotate(-90.00deg);
+}
+
+.dott-11.dott-15 {
+  left: 72px;
+  top: 4741px;
+  transform: rotate(90.00deg);
+}
+
+.dott-11.dott-16 {
+  left: 72px;
+  top: 4574px;
+  transform: rotate(90.00deg);
+}
+
+.dott-11.dott-17 {
+  left: 72px;
+  top: 4415px;
+  transform: rotate(90.00deg);
+}
+

@@ -1,0 +1,105 @@
+.desktop-1 {
+  background-color: var(--neutralwhite);
+  height: 6061px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+  opacity: 0;
+}
+
+.desktop-1.animate-enter {
+  animation: animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+.overlap-group-23 {
+  height: 3806px;
+  left: -3px;
+  position: absolute;
+  top: 850px;
+  width: 1442px;
+}
+
+.why-crappo-1 {
+  background-color: var(--color--primary);
+  height: 887px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.overlap-group1-8 {
+  height: 954px;
+  left: -200px;
+  position: absolute;
+  top: 0;
+  width: 1802px;
+}
+
+.x-19 {
+  height: 470px;
+  left: 0;
+  position: absolute;
+  top: 484px;
+  width: 519px;
+}
+
+.d-1 {
+  height: 196px;
+  left: 1484px;
+  position: absolute;
+  top: 165px;
+  width: 185px;
+}
+
+.u-2 {
+  height: 120px;
+  left: 1529px;
+  position: absolute;
+  top: 678px;
+  width: 154px;
+}
+
+.trade-securely-1 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 1405px;
+  left: -4px;
+  position: absolute;
+  top: 4656px;
+  width: 1440px;
+}
+
+.overlap-group6-12 {
+  height: 1388px;
+  position: relative;
+  width: 1440px;
+}
+
+.bg-1 {
+  background-color: var(--color--primary);
+  height: 457px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.cryptocurrencies-1 {
+  height: 732px;
+  left: 107px;
+  position: absolute;
+  top: 656px;
+  width: 1244px;
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+

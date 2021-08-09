@@ -1,0 +1,59 @@
+.alphabet-8-1 {
+  align-items: flex-start;
+  background-color: var(--neutralwhite);
+  border-radius: 5px;
+  box-shadow: 0px 1px 0px #00000059;
+  display: flex;
+  height: 42px;
+  justify-content: flex-end;
+  margin-left: 6px;
+  min-width: 31px;
+  padding: 3px 6px;
+}
+
+.alphabet-9 {
+  letter-spacing: 0;
+  min-height: 30px;
+  min-width: 15px;
+  text-align: center;
+}
+
+.alphabet-8-1.alphabet-10 {
+  margin-left: 7px;
+  padding: 3px 7px;
+}
+
+.alphabet-8-1.alphabet-10 .alphabet-11,
+.alphabet-8-1.alphabet-10 .alphabet-9 {
+  min-width: 14px;
+}
+
+.alphabet-8-1.alphabet-13 {
+  align-items: flex-start;
+  background-color: var(--neutralwhite);
+  border-radius: 5px;
+  box-shadow: 0px 1px 0px #00000059;
+  display: flex;
+  height: 42px;
+  justify-content: flex-end;
+  min-width: 31px;
+  padding: 3px 6px;
+}
+
+.alphabet-8-1.alphabet-12 {
+  padding: 3px 7px;
+}
+
+.alphabet-8-1.alphabet-14 {
+  align-items: flex-start;
+  background-color: var(--neutralwhite);
+  border-radius: 5px;
+  box-shadow: 0px 1px 0px #00000059;
+  display: flex;
+  height: 42px;
+  justify-content: flex-end;
+  margin-left: 14px;
+  min-width: 31px;
+  padding: 3px 7px;
+}
+

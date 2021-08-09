@@ -1,0 +1,380 @@
+.desktop-12 {
+  background-color: var(--neutralwhite);
+  height: 6061px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+  opacity: 0;
+}
+
+.desktop-12.animate-enter4 {
+  animation: animate-enter4-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+.overlap-group-38 {
+  height: 3806px;
+  left: -3px;
+  position: absolute;
+  top: 850px;
+  width: 1442px;
+}
+
+.why-crappo-4 {
+  background-color: var(--color--primary);
+  height: 887px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.overlap-group1-20 {
+  height: 954px;
+  left: -200px;
+  position: absolute;
+  top: 0;
+  width: 1721px;
+}
+
+.x-29 {
+  height: 470px;
+  left: 0;
+  position: absolute;
+  top: 484px;
+  width: 519px;
+}
+
+.d-4 {
+  height: 196px;
+  left: 1484px;
+  position: absolute;
+  top: 165px;
+  width: 185px;
+}
+
+.u-5 {
+  height: 120px;
+  left: 1529px;
+  position: absolute;
+  top: 678px;
+  width: 154px;
+}
+
+.frame-2-4 {
+  height: 664px;
+  left: 866px;
+  position: absolute;
+  top: 239px;
+  width: 855px;
+}
+
+.mobile2 {
+  background-color: var(--neutralwhite);
+  height: 6061px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 1581px;
+  opacity: 0;
+}
+
+.mobile2.animate-enter5 {
+  animation: animate-enter5-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+.overlap-group-40 {
+  height: 4656px;
+  left: 27px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.why-crappo-6 {
+  background-color: var(--color--primary);
+  height: 887px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 850px;
+  width: 1440px;
+}
+
+.overlap-group1-24 {
+  height: 954px;
+  left: -202px;
+  position: absolute;
+  top: 0;
+  width: 1723px;
+}
+
+.x-48 {
+  height: 470px;
+  left: 0;
+  position: absolute;
+  top: 484px;
+  width: 522px;
+}
+
+.d-6 {
+  height: 196px;
+  left: 1486px;
+  position: absolute;
+  top: 165px;
+  width: 185px;
+}
+
+.u-7 {
+  height: 120px;
+  left: 1531px;
+  position: absolute;
+  top: 678px;
+  width: 154px;
+}
+
+.frame-2-6 {
+  height: 664px;
+  left: 868px;
+  position: absolute;
+  top: 239px;
+  width: 855px;
+}
+
+.x-49 {
+  height: 603px;
+  left: 131px;
+  position: absolute;
+  top: 435px;
+  width: 925px;
+}
+
+.design {
+  background-color: var(--neutralwhite);
+  height: 6023.0px;
+  overflow: hidden;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 1440px;
+}
+
+.overlap-group-50 {
+  height: 4656px;
+  left: -27px;
+  position: absolute;
+  top: 0;
+  width: 1581px;
+}
+
+.why-crappo-7 {
+  background-color: var(--color--primary);
+  height: 887px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 850px;
+  width: 1581px;
+}
+
+.overlap-group1-29 {
+  height: 954px;
+  left: -188px;
+  position: absolute;
+  top: 0;
+  width: 771px;
+}
+
+.x-59 {
+  height: 470px;
+  left: 0;
+  position: absolute;
+  top: 484px;
+  width: 495px;
+}
+
+.overlap-group2-39 {
+  height: 738px;
+  left: 732px;
+  position: absolute;
+  top: 165px;
+  width: 829px;
+}
+
+.d-7 {
+  height: 196px;
+  left: 723px;
+  position: absolute;
+  top: 0;
+  width: 89px;
+}
+
+.u-8 {
+  height: 120px;
+  left: 768px;
+  position: absolute;
+  top: 513px;
+  width: 58px;
+}
+
+.frame-2-7 {
+  height: 664px;
+  left: 0;
+  position: absolute;
+  top: 74px;
+  width: 829px;
+}
+
+.numbers-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 92px;
+  left: 113px;
+  position: absolute;
+  top: 53px;
+}
+
+.numbers-item-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 92px;
+  margin-left: 134px;
+  min-width: 352px;
+  position: relative;
+}
+
+.icon-18 {
+  align-items: flex-start;
+  background-color: var(--neutralwhite);
+  display: flex;
+  min-width: 80px;
+}
+
+.overlap-group3-31 {
+  background-color: var(--neutralwhite);
+  border-radius: 40px;
+  height: 80px;
+  position: relative;
+  width: 80px;
+}
+
+.base-20 {
+  background-color: var(--neutralwhite);
+  border-radius: 40px;
+  height: 80px;
+  left: 0;
+  opacity: 0.1;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.icon-person-6 {
+  height: 40px;
+  left: 20px;
+  position: absolute;
+  top: 18px;
+  width: 40px;
+}
+
+.x-60 {
+  height: 603px;
+  left: 158px;
+  position: absolute;
+  top: 435px;
+  width: 925px;
+}
+
+.trade-securely-5 {
+  align-items: flex-start;
+  background-image: url(/img/trade-securely@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 1405px;
+  left: 0;
+  position: absolute;
+  top: 4656px;
+  width: 1440px;
+}
+
+.overlap-group7-15 {
+  height: 1368px;
+  position: relative;
+  width: 1440px;
+}
+
+.bg-7 {
+  background-color: var(--color--primary);
+  height: 457px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.cryptocurrencies-7 {
+  height: 694px;
+  left: 107px;
+  position: absolute;
+  top: 674px;
+  width: 1244px;
+}
+
+.calculate-13 {
+  height: 771px;
+  left: 49px;
+  position: absolute;
+  top: 122px;
+  width: 1342px;
+}
+
+.photo-open-overlay {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 812px;
+  width: 375px;
+}
+
+.overlay .photo-open-overlay {
+  background-color: #00000000;
+}
+
+.overlap-group-46 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 300px;
+  min-width: 375px;
+  padding: 46px 16px;
+  position: relative;
+}
+
+.union-25 {
+  height: 12px;
+  margin-left: 184px;
+  margin-top: 8.0px;
+  width: 12px;
+}
+
+#overlay-photo-open-overlay {
+  background-color: transparent;
+}
+
+@keyframes animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+@keyframes animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+

@@ -1,0 +1,24 @@
+.button-59 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 6px;
+  display: flex;
+  height: 52px;
+  left: 16px;
+  min-width: 343px;
+  padding: 17px 123.3px;
+  position: absolute;
+  top: 339px;
+}
+
+.text-318 {
+  color: var(--neutralwhite);
+  font-family: var(--font-family-roboto-black);
+  font-size: var(--font-size-xxxs);
+  font-weight: 900;
+  height: 15px;
+  letter-spacing: 0.52px;
+  min-width: 93px;
+  text-align: center;
+}
+

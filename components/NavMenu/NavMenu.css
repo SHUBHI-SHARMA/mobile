@@ -1,0 +1,71 @@
+.nav-menu {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 28px;
+  margin-left: 379px;
+  min-width: 347px;
+}
+
+.text-50 {
+  letter-spacing: 0.16px;
+  line-height: 28px;
+  min-height: 28px;
+  min-width: 71px;
+  white-space: nowrap;
+}
+
+.text-52 {
+  letter-spacing: 0.16px;
+  line-height: 28px;
+  margin-left: 30px;
+  min-height: 28px;
+  min-width: 69px;
+  white-space: nowrap;
+}
+
+.text-51 {
+  letter-spacing: 0.16px;
+  line-height: 28px;
+  margin-left: 30px;
+  min-height: 28px;
+  min-width: 48px;
+  white-space: nowrap;
+}
+
+.place-1 {
+  letter-spacing: 0.16px;
+  line-height: 28px;
+  margin-left: 30px;
+  min-height: 28px;
+  white-space: nowrap;
+}
+
+.nav-menu.nav-menu-1 {
+  align-self: unset;
+}
+
+.nav-menu.nav-menu-2 {
+  align-self: unset;
+}
+
+.nav-menu.nav-menu-3 {
+  align-self: unset;
+}
+
+.nav-menu.nav-menu-4 {
+  align-self: unset;
+}
+
+.nav-menu.nav-menu-5 {
+  align-self: unset;
+}
+
+.nav-menu.nav-menu-6 {
+  align-self: unset;
+}
+
+.nav-menu.nav-menu-7 {
+  align-self: unset;
+}
+
